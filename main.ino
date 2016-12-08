@@ -1,3 +1,7 @@
+//Requires PubSubClient found here: https://github.com/knolleary/pubsubclient
+//
+//ESP8266 MQTT garagedoor opener
+
 #include <PubSubClient.h>
 #include <ESP8266WiFi.h>
 
